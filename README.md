@@ -6,3 +6,4 @@ OLA! Bem vindo ao meu livro de receitas:wave:
 
 - pavê
 
+- bolo de cenoura
